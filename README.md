@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Empezando en 2023 nuevamente. Repositorio de prueba del modulo 2 del Prepcourse de Henry
+Este repositorio es una prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio local. 
